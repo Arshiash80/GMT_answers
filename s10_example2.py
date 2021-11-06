@@ -4,9 +4,6 @@ dersi gecip gecmediklerini hesaplayan
 bir program yaziniz
 """
 
-from typing import Dict
-
-
 student1 = { "exam1": 50, "exam2": 10 }
 student2 = { "exam1": 90, "exam2": 70 }
 student3 = { "exam1": 50, "exam2": 70 }
